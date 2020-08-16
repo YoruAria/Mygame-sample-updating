@@ -1,7 +1,7 @@
 
 # Mygame-sample-updating
 六边形小地图
-
+![0](https://github.com/YoruAria/Mygame-sample-updating/blob/master/t1.png)
 已实现：BFS寻路及玩家移动，障碍区块生成，目标区块生成，事件区块绑定
 未实现：目标区块触发城市内部场景，更多地形区块，战争迷雾系统
 
