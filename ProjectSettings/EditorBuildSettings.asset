@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/scene/map_test.unity
+    guid: 2e762a5f0c6ca564ba14f671bde6771b
+  - enabled: 0
+    path: Assets/Gametype/Scene/Game.unity
+    guid: 37110fce59386f74c862851d9c07b394
+  - enabled: 0
+    path: Assets/scene/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/scene/Tilemap.unity
+    guid: 8a53245de04790041ac83aaed1d1935b
+  - enabled: 1
+    path: Assets/scene/Battle.unity
+    guid: 57fc8b798223e1a4faabf6ab9c156e73
+  m_configObjects: {}
